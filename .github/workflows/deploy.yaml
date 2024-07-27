@@ -81,7 +81,7 @@ jobs:
         uses: aws-actions/amazon-ecs-render-task-definition@v1
         with:
           task-definition: task-definition.json
-          container-name: client-api
+          container-name: patient-api
           image: ${{ steps.build-and-tag-docker-image.outputs.IMAGE_URI }}
 
       - name: Deploy Amazon ECS task definition
