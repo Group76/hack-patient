@@ -1,3 +1,3 @@
 # Patient User API
 
-![Diagram]([http://url/to/img.png](https://github.com/Group76/hack-patient/blob/main/hackaton-pos.drawio.png))
+![Diagram](https://github.com/user-attachments/assets/c16a901d-fd3c-4381-928c-d396a8e797ab)
